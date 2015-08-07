@@ -1,0 +1,5 @@
+Index	SourceFilename	TimeStamp	Version	MD5Sum	OriginalSize	FirstSlice	LastSlice	StartOffset	ChunkSuboffset	ChunkCompressedSize	Encrypted
+0	C:\usr\ms\devel\dotnet\Projects\HostSwitcher\HostSwitcher\bin\Release\HostSwitcher.exe	2010-11-16 17:54:34.000		847302de9aa8022d1df968181813a4de	76800	1	1	0	0	52596	no
+1	C:\usr\ms\devel\dotnet\Projects\HostSwitcher\HostSwitcher\bin\Release\MutexManager.dll	2010-11-16 17:54:32.000		8460176bffe9da8315f99c99364cc8ae	5632	1	1	0	76800	52596	no
+2	C:\usr\ms\devel\dotnet\Projects\HostSwitcher\HostSwitcher\bin\Release\WpfFormLibrary.dll	2010-11-16 17:54:32.000		f867b449b5746454498bf231767d8cf5	33280	1	1	0	82432	52596	no
+3	C:\usr\ms\devel\dotnet\Projects\HostSwitcher\HostSwitcher\bin\Release\route.ico	2010-10-26 19:57:04.000		0a554096c366e3fa7cc6a6c2599d0a67	1150	1	1	0	115712	52596	no
